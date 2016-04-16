@@ -1,0 +1,7 @@
+package j21;
+
+public abstract class interface2 {
+	
+	abstract void method2();
+
+}

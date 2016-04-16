@@ -1,0 +1,12 @@
+package j21;
+
+import javax.swing.event.InternalFrameListener;
+
+public class class_one implements inte{
+	
+	void showmethod(){
+		System.out.println("Showing the parent class method");
+		
+	}
+
+}

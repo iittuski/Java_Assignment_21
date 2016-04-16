@@ -1,0 +1,12 @@
+package j21;
+
+public class class_two extends inteface{
+
+	@Override
+	public void method1() {
+		// TODO Auto-generated method stub
+		System.out.println("method 1 class tow");
+	}
+	
+
+}

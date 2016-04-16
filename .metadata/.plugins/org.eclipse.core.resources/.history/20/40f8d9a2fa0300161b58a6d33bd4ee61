@@ -1,0 +1,13 @@
+package j21;
+
+import javax.swing.event.InternalFrameListener;
+
+public class class_one extends inteface {
+
+	@Override
+	public void method1() {
+		// TODO Auto-generated method stub
+		System.out.println("Method 1 class first");
+	}
+
+}

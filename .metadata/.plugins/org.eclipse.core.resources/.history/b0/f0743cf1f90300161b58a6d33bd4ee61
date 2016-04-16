@@ -1,0 +1,6 @@
+package j21;
+
+public abstract class inteface1 {
+
+	public abstract void method1();
+}

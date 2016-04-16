@@ -1,0 +1,10 @@
+package j21;
+
+public class superclass {
+	
+	void showmethod(){
+		System.out.println("Showing the parent class method");
+		
+	}
+
+}

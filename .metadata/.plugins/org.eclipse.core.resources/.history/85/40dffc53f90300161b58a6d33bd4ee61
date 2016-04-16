@@ -1,0 +1,9 @@
+package j21;
+
+public class superclass {
+	
+	void showmethod(){
+		
+	}
+
+}
